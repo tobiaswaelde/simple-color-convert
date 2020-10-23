@@ -1,0 +1,23 @@
+{
+  "name": "simple-color-convert",
+  "version": "1.0.0",
+  "description": "This package provides functions to simple convert HSV, HSL and RGB colors into each other",
+  "author": {
+    "name": "Tobias Wälde",
+    "email": "tobias.waelde@gmail.com",
+    "url": "https://tobiaswaelde.com"
+  },
+  "main": "index.js",
+  "scripts": {
+    
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/tobiaswaelde/simple-color-convert.git"
+  },
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/tobiaswaelde/simple-color-convert/issues"
+  },
+  "homepage": "https://github.com/tobiaswaelde/simple-color-convert#readme"
+}
