@@ -7,9 +7,11 @@
     "email": "tobias.waelde@gmail.com",
     "url": "https://tobiaswaelde.com"
   },
-  "main": "index.js",
+  "keywords": ["HSL", "HSV", "RGB", "convert", "color"],
+  "main": "./dist/index.js",
   "scripts": {
-    
+    "prebuild": "rm -rf ./dist/",
+    "build": "tsc"
   },
   "repository": {
     "type": "git",
